@@ -1,6 +1,3 @@
-you can have a look by clicking this link
-https://js-1608.github.io/googleClone.github.io/
-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
